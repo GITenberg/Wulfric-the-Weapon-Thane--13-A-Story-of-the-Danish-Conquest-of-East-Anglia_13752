@@ -1,0 +1,34 @@
+_repo: Wulfric-the-Weapon-Thane--13-A-Story-of-the-Danish-Conquest-of-East-Anglia_13752
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whistler, Charles W. (Charles Watts)
+    alias: Whistler, C. W. (Charles Watts)
+    birthdate: 1856
+    deathdate: 1913
+    gutenberg_agent_id: '4801'
+    url: http://www.gutenberg.org/2009/agents/4801
+    wikipedia: http://en.wikipedia.org/wiki/Charles_W._Whistler
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Danes -- Juvenile fiction'
+- !lcsh 'Vikings -- Juvenile fiction'
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Denmark -- History -- To 1241 -- Juvenile fiction'
+- !lcsh 'Saxons -- Juvenile fiction'
+title: "Wulfric the Weapon Thane\r\nA Story of the Danish Conquest of East Anglia"
+url: http://www.gutenberg.org/ebooks/13752
